@@ -1,31 +1,31 @@
 # Car Sales SQL Analysis
 
-## 📌 Project Overview
+##  Project Overview
 This project analyzes car sales data using MySQL to extract business insights.
 
-## 🛠 Tools Used
+##  Tools Used
 - MySQL
 - MySQL Workbench
 - Git & GitHub
 
-## 📊 Key Analysis
+##  Key Analysis
 - Top 10 highest annual income customers
 - Sales distribution by car color
 - Sales by dealer region
 - Company-wise sales trends
 
-## 📂 Dataset
+##  Dataset
 Source: Kaggle (Car Sales Dataset)
 
-## 🧠 Skills Demonstrated
+##  Skills Demonstrated
 - SQL SELECT, GROUP BY, ORDER BY
 - Aggregations (COUNT, AVG)
 - Data cleaning
 - Business insight generation
 
-## 📸 Sample Output
+## Sample Output
 (See screenshots folder)
 
-## 🚀 How to Run
+##   How to Run
 1. Import CSV into MySQL
 2. Run SQL scripts from `/sql/analysis_queries.sql`
